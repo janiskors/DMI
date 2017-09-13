@@ -1,60 +1,3 @@
-   33  sudo mount -t ntfs -o rw,auto,nobrowse /dev/disk3s1
-   34  sudo mount -t ntfs -o rw,auto,nobrowse /dev/disk3s1 ~/brew cask install mounty
-   35  brew cask install mounty
-   36  sudo nano /etc/fstab
-   37  LABEL=TOURO none ntfs rw,auto,nobrowse
-   38  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
-   39  ping 192.168.0.193
-   40  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59103
-   41  /Volumes/Disk\ Drill\ Entreprise\ 3.1.817\ \[TNT\]/Open\ Gatekeeper\ friendly ; exit;
-   42  /Volumes/iMazing\ 2.2.6\ \[TNT\]/Open\ Gatekeeper\ friendly ; exit;
-   43  ssh adati@10.0.0.101
-   44  SetFile -c "" -t "" /Volumes/DISKS/FHD0048.MOV 
-   45  SetFile -c "" -t "" /Volumes/DISKS/FHD0277.MOV 
-   46  SetFile -c "" -t "" /Volumes/DISKS/FHD0278.MOV 
-   47  SetFile -c "" -t "" /Volumes/DISKS/FHD0279.MOV 
-   48  SetFile -c "" -t "" /Volumes/DISKS/FHD0280.MOV 
-   49  SetFile -c "" -t "" /Volumes/DISKS/FHD0281.MOV
-   50  ssh adati@10.0.0.101
-   51  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.76:5900
-   52  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.76:3389
-   53  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.76:5900
-   54  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
-   55  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.83:3389
-   56  ssh adati@eja.rauko.lv -p 26 -L 5900:192.168.14.83:5900
-   57  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
-   58  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.5:3389
-   59  ssh adati@eja.rauko.lv -p 26 -L 5900:192.168.14.83:5900
-   60  ssh adati@eja.rauko.lv -p 26 -L 5900:192.168.14.83:5900
-   61  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.83:5900
-   62  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59103
-   63  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
-   64  exit
-   65  ssh adati@192.168.0.35
-   66  cupsctl WebInterface=yes
-   67  wol 68:A8:6D:2A:2C:10
-   68  ssh eja.krassky.lv
-   69  ssh adati@eja.krassky.lv
-   70  ssh root@eja.krassky.lv
-   71  ssh adati@10.0.0.101
-   72  ping 10.9.9.90
-   73  ping 10.9.9.58
-   74  ssh adati@10.0.0.101
-   75  ssh adati@10.0.0.101
-   76  ssh adati@10.0.0.101
-   77  wine explorer
-   78  ssh adati@mail.gauja.lv
-   79  ssh adati@adati.gauja.lv
-   80  ssh adati@gauja.adati.lv
-   81  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
-   82  ssh adati@10.0.0.101
-   83  ssh adati@10.0.0.101
-   84  ssh adati@10.0.0.101
-   85  ssh adati@10.0.0.101
-   86  ssh adati@192.168.5.222
-   87  ssh adati@10.0.0.101
-   88  ssh adati@10.0.0.101
-   89  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
    90  ssh adati@10.0.0.101
    91  ssh adati@192.168.0.155
    92  ssh adati@10.0.0.101
@@ -498,3 +441,60 @@
   530  cd test
   531  history
   532  history > history.txt
+  533  cat history.txt 
+  534  ls -la
+  535  git init 
+  536  git add .
+  537  git config --global user.name janisk@adati.lv
+  538  git commit -m "20170913_14_00"
+  539  git config --global user.email janisk@adati.lv
+  540  git remote add origin https://github.com/janiskors/DMI.git
+  541  git push origin master
+  542  ls -l
+  543  ls -la
+  544  history 
+  545  mkdir apadksdarbi
+  546  cd apadksdarbi/
+  547  history > vesture.txt
+  548  cd ..
+  549  rmdir apadksdarbi
+  550  rm -fr apadksdarbi/
+  551  echo [option(s)] [string(s)]
+  552  echo Tests mac os
+  553  x=10
+  554  echo
+  555  -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  556  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  557  echo [option(s)] [string(s)]
+  558  echo -e "Tecmint is a community of \aLinux Nerds" 
+  559  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  560  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  561  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  562  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  563  echo -e "Tecmin is a \aOSX system"
+  564  echo -e "Tecmin is a \aOSX system"
+  565  echo -e "Tecmin is a \aOSX system"
+  566  echo -e "Tecmin is a \aOSX system"
+  567  echo "Teksts"
+  568  echo "Teksts" > a.txt
+  569  ls -la
+  570  touch a.txt
+  571  cat a.txt
+  572  cat a.txt > d.txt
+  573  cat a.txt >> d.txt
+  574  ls -l
+  575  cat d.txt
+  576  cp d.txt dd.txt
+  577  ls -l
+  578  man mv
+  579  mv a.txt ../
+  580  cd ../
+  581  mv a.txt test
+  582  cd /
+  583  sudo port install mc
+  584  Install MacPorts
+  585  Install MacPorts.
+  586  cd
+  587  cd test/
+  588  ls -l
+  589  history > history.txt

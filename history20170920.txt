@@ -469,32 +469,49 @@
   498  diskutil unmount /dev/disk2s1
   499  diskutil unmount /dev/disk2s2
   500  diskutil unmount /dev/disk2s3
+Veidot failu git-download.sh
   501  nano git-download.sh
   502  ls -l
+rediget failu
   503  cat git-download.sh 
-  504  open git-download.sh 
+  504  open git-download.sh
+Paradit visas sakuma direktorijas 
   505  echo $PATH
   506  where is ls
+kur atrodas ls 
   507  whereis ls
   508  ls -l /bin/ls
+paradit failu ls
   509  cat /bin/ls
+Kur atrodos
   510  pwd
   511  PATH=$PATH:/Users/janiskorsukovs
   512  git-download.sh
+Nomainit tiesibas git-download faila
   513  chmod 744 git-download.sh
   514  git-download
   515  git-download.sh
   516  ls -l
+Mainit direktoriju
   517  cd test
   518  ls -l
+Paradit visas mapes ari sleptas
   519  ls -la
   520  mv ../git-download.sh ./
+Pārvietot failu uz mapi DMI
   521  mv ./git-download.sh ~/DMI/
   522  cd ../DMI
+Pievienot mapi pie izpildes
   523  PATH=$PATH:/Users/janiskorsukovs/DMI/
-  524  git-download.sh 
+Izpildit komandu
+  524  git-download.sh
+ 
   525  ls -l
+Izdzest mapi
   526  rm -rf ./DMI/
+Redzet mapes saturu saraksta veida redzot tiesibas
   527  ls -l
+Izveidot jaunu failu
   528  nano
+Izveidot vestrues .txt failu
   529  history > history20170920.txt

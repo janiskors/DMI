@@ -1,62 +1,3 @@
-   48  ssh root@192.168.0.5
-   49  ssh adati@eja.krassky.lv
-   50  ssh adati@10.0.0.101
-   51  ping 192.168.0.199
-   52  ssh adati@10.9.9.118 -L 5900:192.168.2.198:5900
-   53  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.83:3389
-   54  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.5:3389
-   55  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.81:3389
-   56  ssh adati@smtp.adati.lv
-   57  ssh adati@smtp.adati.lv
-   58  ssh adati@smtp.adati.lv
-   59  ssh root@smtp.adati.lv
-   60  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.81:3389
-   61  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59103
-   62  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
-   63  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59104
-   64  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
-   65  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
-   66  ssh adati@192.168.0.41
-   67  ssh adati@10.0.0.101
-   68  ssh adati@192.168.0.38
-   69  ssh adati@192.168.0.60
-   70  ssh adati@10.0.0.101
-   71  ssh root@192.168.0.5
-   72  ssh root@192.168.0.60
-   73  ssh adati@192.168.0.38
-   74  ssh adati@192.168.0.35
-   75  ssh adati@192.168.0.41
-   76  ssh root@smtp.adati.lv
-   77  ssh root@smtp.latio.lv
-   78  ssh root@smtp.latio.lv
-   79  ssh adati@smtp.latio.lv
-   80  ssh adati@10.0.0.101
-   81  ssh root@192.168.3.74
-   82  ssh root@192.168.3.74
-   83  ssh janis@192.168.3.74
-   84  ssh adati@192.168.0.38
-   85  ssh adati@192.168.0.122
-   86  ping 10.0.0.101
-   87  ping 10.0.0.99
-   88  ping 10.0.0.101
-   89  ping 10.0.0.99
-   90  ssh adati@10.0.0.101
-   91  ssh adati@10.0.0.101
-   92  ssh adati@192.168.5.4
-   93  ssh adati@smtp.latio.lv
-   94  ssh root@smtp.latio.lv
-   95  ssh adati@smtp.latio.lv
-   96  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
-   97  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
-   98  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
-   99  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
-  100  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
-  101  ssh adati@smtp.latio.lv
-  102  ssh adati@10.0.0.101
-  103  ssh adati@192.168.0.38
-  104  ssh adati@smtp.latio.lv
-  105  ssh adati@192.168.5.4
-  106  ssh adati@10.0.0.101
   107  ssh adati@izzi.adati.lv
   108  ssh adati@10.9.9.130 -L 5900:192.168.6.253:5900
   109  ssh adati@10.9.9.130 -L 5900:192.168.6.254:5900
@@ -498,3 +439,62 @@
   545  shell_examples.sh
   546  ls -la
   547  history > history20170927.txt
+  548  ls -la
+  549  rm history_20130927.txt 
+  550  nano git-upload
+  551  git-upload
+  552  git-upload
+  553  echo $0
+  554  nano shell_examples.sh
+  555  shell_examples.sh
+  556  nano shell_examples.sh
+  557  shell_examples.sh
+  558  nano shell_examples.sh
+  559  shell_examples.sh
+  560  nano shell_examples.sh
+  561  nano shell_examples.sh
+  562  shell_examples.sh
+  563  nano shell_examples.sh
+  564  shell_examples.sh
+  565  nano shell_examples.sh
+  566  shell_examples.sh
+  567  nano shell_examples.sh
+  568  shell_examples.sh
+  569  nano shell_examples.sh
+  570  nano shell_examples.sh
+  571  nano shell_examples.sh
+  572  shell_examples.sh
+  573  nano shell_examples.sh
+  574  nano shell_examples.sh
+  575  shell_examples.sh
+  576  shell_examples.sh arg1
+  577  nano shell_examples.sh
+  578  shell_examples.sh arg1
+  579  nano shell_examples.sh
+  580  nano shell_examples.sh
+  581  shell_examples.sh arg1
+  582  nano shell_examples.sh
+  583  nano shell_examples.sh
+  584  shell_examples.sh arg1
+  585  shell_examples.sh
+  586  nano shell_examples.sh
+  587  shell_examples.sh
+  588  nano shell_examples.sh
+  589  shell_examples.sh
+  590  nano shell_examples.sh
+  591  shell_examples.sh
+  592  nano shell_examples.sh
+  593  shell_examples.sh
+  594  nano shell_examples.sh
+  595  shell_examples.sh
+  596  nano shell_examples.sh
+  597  shell_examples.sh
+  598  nano shell_examples.sh
+  599  shell_examples.sh
+  600  nano shell_examples.sh
+  601  shell_examples.sh
+  602  shell_examples.sh
+  603  nano shell_examples.sh
+  604  shell_examples.sh
+  605  nano shell_examples.sh
+  606  history > history20170927.txt

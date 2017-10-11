@@ -1,0 +1,500 @@
+   16  ssh adati@10.9.9.118 -L 5900:192.168.2.198:5900
+   17  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.83:3389
+   18  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.5:3389
+   19  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.81:3389
+   20  ssh adati@smtp.adati.lv
+   21  ssh adati@smtp.adati.lv
+   22  ssh adati@smtp.adati.lv
+   23  ssh root@smtp.adati.lv
+   24  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.81:3389
+   25  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59103
+   26  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
+   27  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59104
+   28  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
+   29  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
+   30  ssh adati@192.168.0.41
+   31  ssh adati@10.0.0.101
+   32  ssh adati@192.168.0.38
+   33  ssh adati@192.168.0.60
+   34  ssh adati@10.0.0.101
+   35  ssh root@192.168.0.5
+   36  ssh root@192.168.0.60
+   37  ssh adati@192.168.0.38
+   38  ssh adati@192.168.0.35
+   39  ssh adati@192.168.0.41
+   40  ssh root@smtp.adati.lv
+   41  ssh root@smtp.latio.lv
+   42  ssh root@smtp.latio.lv
+   43  ssh adati@smtp.latio.lv
+   44  ssh adati@10.0.0.101
+   45  ssh root@192.168.3.74
+   46  ssh root@192.168.3.74
+   47  ssh janis@192.168.3.74
+   48  ssh adati@192.168.0.38
+   49  ssh adati@192.168.0.122
+   50  ping 10.0.0.101
+   51  ping 10.0.0.99
+   52  ping 10.0.0.101
+   53  ping 10.0.0.99
+   54  ssh adati@10.0.0.101
+   55  ssh adati@10.0.0.101
+   56  ssh adati@192.168.5.4
+   57  ssh adati@smtp.latio.lv
+   58  ssh root@smtp.latio.lv
+   59  ssh adati@smtp.latio.lv
+   60  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
+   61  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
+   62  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
+   63  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
+   64  ssh root@kity.latio.lv -L 5900:192.168.30.200:5900
+   65  ssh adati@smtp.latio.lv
+   66  ssh adati@10.0.0.101
+   67  ssh adati@192.168.0.38
+   68  ssh adati@smtp.latio.lv
+   69  ssh adati@192.168.5.4
+   70  ssh adati@10.0.0.101
+   71  ssh adati@izzi.adati.lv
+   72  ssh adati@10.9.9.130 -L 5900:192.168.6.253:5900
+   73  ssh adati@10.9.9.130 -L 5900:192.168.6.254:5900
+   74  ssh adati@10.9.9.130 -L 5900:192.168.6.251:5900
+   75  ssh adati@10.9.9.130 -L 5900:192.168.6.252:5900
+   76  ssh adati@10.9.9.130 -L 5900:192.168.6.245:5900
+   77  ssh adati@10.9.9.130 -L 5900:192.168.6.252:5900
+   78  ssh adati@10.9.9.130 -L 80:192.168.6.252:80
+   79  ssh adati@10.9.9.130 -L 80:192.168.6.252:80
+   80  ssh adati@10.9.9.130 -L 8080:192.168.6.252:80
+   81  ssh adati@10.0.0.101
+   82  ssh adati@192.168.0.32
+   83  ssh adati@192.168.0.62
+   84  ssh adati@192.168.0.5
+   85  ssh root@192.168.0.5
+   86  ifconfig
+   87  ssh adati@10.0.0.101
+   88  ssh adati@10.0.0.101
+   89  ssh adati@10.0.0.101
+   90  ssh adati@10.0.0.101
+   91  ssh adat@192.168.0.155
+   92  ssh adat@192.168.0.155
+   93  ssh adat@192.168.0.155
+   94  ssh adat@192.168.0.155
+   95  ssh adat@192.168.0.155
+   96  ssh adat@192.168.0.155
+   97  ssh adat@192.168.0.155
+   98  ssh adat@192.168.0.155
+   99  ssh adat@192.168.0.155
+  100  ssh adat@192.168.0.155
+  101  ssh adat@192.168.0.155
+  102  ssh adat@192.168.0.155
+  103  ssh adat@192.168.0.155
+  104  exit
+  105  ssh adat@192.168.0.155
+  106  ssh adat@10.0.0.101
+  107  ssh adat@10.0.0.101
+  108  ssh adati@10.0.0.101
+  109  ssh adat@192.168.0.201
+  110  ssh adat@192.168.0.201
+  111  ssh adati@192.168.0.201
+  112  ssh adati@10.0.0.99
+  113  ssh adati@10.0.0.101
+  114  ssh adati@192.168.0.38
+  115  /Volumes/CleanMyMac\ 3.8.4\ CR2/Open\ Gatekeeper\ friendly ; exit;
+  116  ssh adati@192.168.0.122
+  117  ssh admin@192.168.1.1
+  118  ssh admin@192.168.1.1
+  119  ping 192.168.31.1
+  120  ping 10.225.96.2
+  121  ping 78.84.182.71
+  122  ping 10.225.96.1
+  123  ssh 192.168.1.1
+  124  ssh admin@192.168.1.1
+  125  ssh admin@192.168.1.1
+  126  ssh @192.168.1.1
+  127  ssh 192.168.1.1
+  128  telnet 192.168.1.1
+  129  telnet 192.168.1.1
+  130  ssh adati@192.168.0.30
+  131  ssh adati@192.168.0.30
+  132  ssh adati@192.168.0.30
+  133  ssh adati@192.168.0.30
+  134  ssh adati@192.168.0.30
+  135  ssh adati@192.168.0.30
+  136  ssh adati@192.168.0.30
+  137  ssh adati@192.168.0.30
+  138  ssh adati@192.168.0.60
+  139  ssh adati@192.168.0.30
+  140  ssh adati@192.168.0.60
+  141  ssh adati@10.0.0.101
+  142  adati@192.168.0.60
+  143  ssh adati@192.168.0.60
+  144  ssh adati@192.168.0.30
+  145  ssh adati@gauja.adati.lv
+  146  ssh adati@10.0.0.101
+  147  ssh adati@192.168.5.222
+  148  ssh adati@10.0.0.101
+  149  ssh adati@10.0.0.101
+  150  ssh adati@10.0.0.101
+  151  ssh adati@192.168.1.2
+  152  ssh root@192.168.1.2
+  153  ssh root@192.168.1.2
+  154  ssh root@10.0.0.101
+  155  ssh adati@10.0.0.101
+  156  ssh adati@192.168.5.1
+  157  ssh adati@192.168.5.2
+  158  ssh adati@192.168.5.222
+  159  ssh adati@192.168.5.4
+  160  ssh adati@192.168.0.60
+  161  ssh adati@192.168.0.5
+  162  ssh root@192.168.0.5
+  163  ssh adati@10.0.0.101
+  164  ssh root@192.168.0.5
+  165  ssh root@192.168.0.5
+  166  ssh adati@192.168.0.38
+  167  ssh root@192.168.0.5
+  168  ssh root@eja.krassky.lv 
+  169  ssh adati@eja.krassky.lv 
+  170  ssh adati@eja.krassky.lv -L 5900:127.0.0.1:5902
+  171  ssh adati@192.168.3.161
+  172  ssh adati@192.168.3.161
+  173  ssh janis@192.168.3.161
+  174  ssh -L 5901:127.0.0.1:5901 -N -f -l janis 192.168.3.161
+  175  ssh -L 5901:127.0.0.1:5901 -N -f -l janis 192.168.3.161
+  176  ssh -L 5900:127.0.0.1:5900 -N -f -l janis 192.168.3.161
+  177  ssh adati@smtp.adati.lv
+  178  ssh smtp.latio.lv -l root
+  179  ssh smtp.latio.lv -l root
+  180  ssh smtp.latio.lv -l adati
+  181  ssh root@kity.latio.lv
+  182  ssh adati@kity.latio.lv
+  183  ssh adati@smtp.latio.lv
+  184  ssh adati@192.168.1.2
+  185  ssh root@192.168.1.2
+  186  ssh janis@192.168.3.161
+  187  ssh janis@192.168.3.161
+  188  ssh janis@192.168.3.161
+  189  ssh adati@192.168.0.38
+  190  /Volumes/CleanMyMac\ 3\ 3.8.6/Open\ Gatekeeper\ friendly ; exit;
+  191  ssh janis@192.168.3.161
+  192  ssh adati@10.0.0.101
+  193  ssh adati@10.0.0.101
+  194  ssh janis@192.168.3.161
+  195  ssh adati@10.0.0.101
+  196  ssh adati@10.0.0.101
+  197  ssh adati@10.0.0.101
+  198  ssh adati@10.0.0.101
+  199  ssh janis@192.168.3.161
+  200  ssh janis@192.168.3.161
+  201  ssh janis@192.168.3.161
+  202  ssh janis@192.168.3.161
+  203  ssh root@192.168.0.5
+  204  ssh adati@eja.krassky.lv -L 5900:127.0.0.1:5903
+  205  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59103
+  206  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59104
+  207  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.78:5900
+  208  ping 213.226.141.228
+  209  ping 172.20.10.1
+  210  ssh 172.20.10.1
+  211  ssh root@172.20.10.1
+  212  ping 228.141.226.213.in-addr.arpa
+  213  ping 228.141.226.213
+  214  ping 213.226.141.111
+  215  nslookup janislaukos.ddns.net
+  216  nslookup 213.226.141.111
+  217  nslookup 213.226.141.111
+  218  nslookup janislaukos.ddns.net
+  219  nslookup janislaukos.ddns.net
+  220  nslookup janislaukos.ddns.net
+  221  nslookup 213.226.141.228
+  222  ping 228.141.226.213
+  223  ping 192.168.31.1
+  224  ping 192.168.31.129
+  225  ssh smtp.latio.lv -l root
+  226  ssh smtp.latio.lv -l root
+  227  ssh adati@smtp.latio.lv
+  228  ssh adati@smtp.latio.lv
+  229  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.78:5900
+  230  ssh adati@eja.rauko.lv -p 26 -L 5901:192.168.14.72:5900
+  231  ssh adati@192.168.0.215
+  232  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59102
+  233  ssh adati@192.168.0.42
+  234  ssh adati@192.168.0.5
+  235  ssh root@192.168.0.5
+  236  /Users/janiskorsukovs/Downloads/2ndrive-master/2nd.sh 
+  237  /Users/janiskorsukovs/Downloads/2ndrive-master/2nd.sh 
+  238  /Users/janiskorsukovs/Downloads/2ndrive-master/2nd.sh 
+  239  2ndoff
+  240  sh 2nd.sh
+  241  ls -l
+  242  cd /.
+  243  cd /Users/janiskorsukovs/Downloads/
+  244  sh 2nd.sh
+  245  cd /Users/janiskorsukovs/Downloads/2ndrive-master/
+  246  sh 2nd.sh
+  247  2ndoff
+  248  2ndon
+  249  2ndoff
+  250  2ndoff
+  251  2ndoff
+  252  cd /Users/janiskorsukovs/2ndrive-master/
+  253  sh 2nd.sh
+  254  2ndoff
+  255  2ndoff
+  256  sh 2nd.sh
+  257  cd /Users/janiskorsukovs/2
+  258  cd /Users/janiskorsukovs/2ndrive-master/
+  259  sh 2nd.sh
+  260  2ndoff
+  261  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
+  262  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59001
+  263  ssh vncuser@192.168.3.1 -L 5900:127.0.0.1:59101
+  264  2ndon
+  265  2ndoff
+  266  ssh root@192.168.0.5
+  267  2ndoff
+  268  cd /Users/janiskorsukovs/2ndrive-master/
+  269  sh 2nd.sh
+  270  2ndoff
+  271  exit
+  272  ssh vncuser@192.168.3.1
+  273  ssh eja.krassky.lv
+  274  ssh root@eja.krassky.lv
+  275  ssh adati@eja.krassky.lv
+  276  ssh root@eja.krassky.lv
+  277  ssh adati@192.168.0.33
+  278  ssh adati@10.0.0.101
+  279  ssh adati@10.0.0.101
+  280  ls
+  281  cd ../janiskorsukovs/Desktop/
+  282  mkdir tests
+  283  rmdir test
+  284  cat /etc/*-release]
+  285  lsb_release
+  286  uname -r
+  287  echo $0
+  288  [pwd
+  289  pwd
+  290  mc
+  291  sw_vers
+  292  2ndoff
+  293  cd ./
+  294  ls
+  295  cd ../
+  296  ls
+  297  wine explorer
+  298  cd ./.wine/
+  299  ls -l
+  300  cd ../
+  301  echo $0
+  302  ssh user@10.152.17.116
+  303  ssh user@10.152.17.116
+  304  ls --help
+  305  ls -help
+  306  man ls
+  307  mkdri test
+  308  mkdir test
+  309  cd test
+  310  history
+  311  history > history.txt
+  312  cat history.txt 
+  313  ls -la
+  314  git init 
+  315  git add .
+  316  git config --global user.name janisk@adati.lv
+  317  git commit -m "20170913_14_00"
+  318  git config --global user.email janisk@adati.lv
+  319  git remote add origin https://github.com/janiskors/DMI.git
+  320  git push origin master
+  321  ls -l
+  322  ls -la
+  323  history 
+  324  mkdir apadksdarbi
+  325  cd apadksdarbi/
+  326  history > vesture.txt
+  327  cd ..
+  328  rmdir apadksdarbi
+  329  rm -fr apadksdarbi/
+  330  echo [option(s)] [string(s)]
+  331  echo Tests mac os
+  332  x=10
+  333  echo
+  334  -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  335  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  336  echo [option(s)] [string(s)]
+  337  echo -e "Tecmint is a community of \aLinux Nerds" 
+  338  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  339  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  340  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  341  Tecmint is a community of Linux Nerdsecho -e "Tecmint is a community of \aLinux Nerds" 
+  342  echo -e "Tecmin is a \aOSX system"
+  343  echo -e "Tecmin is a \aOSX system"
+  344  echo -e "Tecmin is a \aOSX system"
+  345  echo -e "Tecmin is a \aOSX system"
+  346  echo "Teksts"
+  347  echo "Teksts" > a.txt
+  348  ls -la
+  349  touch a.txt
+  350  cat a.txt
+  351  cat a.txt > d.txt
+  352  cat a.txt >> d.txt
+  353  ls -l
+  354  cat d.txt
+  355  cp d.txt dd.txt
+  356  ls -l
+  357  man mv
+  358  mv a.txt ../
+  359  cd ../
+  360  mv a.txt test
+  361  cd /
+  362  sudo port install mc
+  363  Install MacPorts
+  364  Install MacPorts.
+  365  cd
+  366  cd test/
+  367  ls -l
+  368  history > history.txt
+  369  git add .
+  370  git commit -m "201709121606"
+  371  git push master origin
+  372  git push test origin
+  373  history
+  374  git push origin master
+  375  ssh root@http://85.254.220.1
+  376  ssh root@85.254.220.1
+  377  ssh 192.168.0.5
+  378  ssh root@192.168.0.5
+  379  ssh adati@10.0.0.101
+  380  cd imagepath; Extra/rhash -r Extra/tnt.sfv --sha256 --skip-ok -c 
+  381  Extra/rhash -r Extra/tnt.sfv --sha256 --skip-ok -c
+  382  /Volumes/EaseUS\ Data\ Recovery\ Wizard\ 10.9\ MAS/Extra/rhash ; exit;
+  383  /Volumes/iSkysoft\ Data\ Recovery\ 3.1.1/Open\ Gatekeeper\ friendly ; exit;
+  384  history
+  385  2ndoff
+  386  ssh adati@10.0.0.101
+  387  2ndoff 
+  388  diskutil list
+  389  diskutil unmount /dev/disk2
+  390  diskutil mount /dev/disk2
+  391  diskutil mount /dev/disk2s1
+  392  diskutil unmount /dev/disk2
+  393  diskutil unmount /dev/disk2s1
+  394  diskutil unmount /dev/disk2s2
+  395  diskutil unmount /dev/disk2s3
+  396  nano git-download.sh
+  397  ls -l
+  398  cat git-download.sh 
+  399  open git-download.sh 
+  400  echo $PATH
+  401  where is ls
+  402  whereis ls
+  403  ls -l /bin/ls
+  404  cat /bin/ls
+  405  pwd
+  406  PATH=$PATH:/Users/janiskorsukovs
+  407  git-download.sh
+  408  chmod 744 git-download.sh
+  409  git-download
+  410  git-download.sh
+  411  ls -l
+  412  cd test
+  413  ls -l
+  414  ls -la
+  415  mv ../git-download.sh ./
+  416  mv ./git-download.sh ~/DMI/
+  417  cd ../DMI
+  418  PATH=$PATH:/Users/janiskorsukovs/DMI/
+  419  git-download.sh 
+  420  ls -l
+  421  rm -rf ./DMI/
+  422  ls -l
+  423  nano
+  424  history > history20170920.txt
+  425  ls -l
+  426  chmod 744 git-upload
+  427  git-upload
+  428  nano history20170920.txt 
+  429  git-upload
+  430  ls -la
+  431  echo $PATH
+  432  ping 192.168.0.92
+  433  ping 192.168.0.169
+  434  ping 192.168.0.92
+  435  ssh adati@10.0.0.101
+  436  cd /Volumes/ADATA\ UFD 
+  437  ls -l
+  438  ls -la
+  439  rm ._Presidents_rug_short.mp4 
+  440  ls -la
+  441  ls -la
+  442  exit
+  443  cd /Volumes/NO\ NAME 
+  444  ls -la
+  445  cd ./DCIM/
+  446  ls -la
+  447  cd ./100MEDIA/
+  448  ls -la
+  449  cd /Volumes/FL 
+  450  ls -la
+  451  cd /Volumes/NO\ NAME 
+  452  ls -la
+  453  ls -a
+  454  ls -la
+  455  ls -la
+  456  cd ./DCIM/
+  457  ls -la
+  458  cd ./100MEDIA/
+  459  ls -la
+  460  exit
+  461  open /Volumes/
+  462  ssh 10.0.0.101
+  463  ssh adati@10.0.0.101
+  464  ssh adati@10.0.0.101
+  465  ssh adati@10.0.0.101
+  466  /Volumes/dr.fone\ toolkit\ for\ iOS\ v8.2.1/Open\ Gatekeeper\ friendly ; exit;
+  467  /Volumes/Disk\ Drill\ Entreprise\ 3.1.817\ \[TNT\]/Open\ Gatekeeper\ friendly ; exit;
+  468  ssh adati@192.168.0.206
+  469  e
+  470  ping gw.krassky.ru
+  471  ssh adati@192.168.0.154
+  472  ping 192.168.0.154
+  473  ssh adati@192.168.0.249
+  474  ssh adati@192.168.0.210
+  475  adati@192.168.0.36
+  476  ssh adati@192.168.0.36
+  477  ssh adati@192.168.0.33
+  478  ssh adati@192.168.0.37
+  479  ssh adati@192.168.0.32
+  480  ssh adati@192.168.0.214
+  481  ssh adati@192.168.0.37
+  482  ssh adati@192.168.0.32
+  483  ssh adati@192.168.0.40
+  484  ssh adati@192.168.0.122
+  485  ssh adati@10.0.0.101
+  486  ssh adati@192.168.5.244
+  487  ssh adati@192.168.0.153
+  488  ssh adati@smtp.latio.lv
+  489  ssh adati@192.168.1.2
+  490  ssh root@192.168.1.2
+  491  ssh root@192.168.
+  492  ssh adati@smtp.latio.lv
+  493  ssh adati@192.168.0.32
+  494  ssh adati@192.
+  495  ssh adati@10.0.0.101
+  496  ssh adati@10.0.0.101
+  497  ssh adati@192.168.0.210
+  498  ssh adati@192.168.5.222
+  499  ssh adati@192.168.5.2
+  500  ls -l
+  501  ls -la
+  502  cd ./DMI
+  503  nano
+  504  ls -l
+  505  nano komandas 
+  506  nano komandas
+  507  nano komandas.txt
+  508  komandas.sh
+  509  history 
+  510  sk komandas.sh
+  511  sh komandas.sh
+  512  nano
+  513  nano 
+  514  nano git-upload 
+  515  history > history_20171011.txt
